@@ -1,4 +1,4 @@
-# simple-java-maven-app Once More time please we are going to rock it. One more time. 
+# simple-java-maven-app 
 
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
