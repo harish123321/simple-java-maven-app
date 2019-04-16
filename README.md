@@ -1,4 +1,4 @@
-# simple-java-maven-app Please last time Plugin 2.04
+# simple-java-maven-app Please last time Plugin 3.0.0
 
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
